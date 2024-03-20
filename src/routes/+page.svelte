@@ -116,8 +116,8 @@
 	</nav>
 
 	<footer>
-		<p>Developed by: <a href="https://github.com/bradtraversy">Sean Gabriel Bayron</a></p>
-		<p>Source code: <a href="https://github.com/bradtraversy/CMSC-186-PA1">GitHub</a></p>
+		<p>Developed by: <a href="https://github.com/seangaaab">Sean Gabriel Bayron</a></p>
+		<p>Source code: <a href="https://github.com/seangaaab/CMSC-186-PA1">GitHub</a></p>
 	</footer>
 </main>
 
