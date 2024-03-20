@@ -63,7 +63,7 @@
 		<div class="mainContent__header__text">
 			<h1>Countries List</h1>
 			<p>
-				These countries are fetched from the <a href="https://restcountries.com"
+				These countries are fetched from the <a href="https://restcountries.com" target="_blank"
 					>restcountries.com</a
 				>
 			</p>
@@ -116,8 +116,12 @@
 	</nav>
 
 	<footer>
-		<p>Developed by: <a href="https://github.com/seangaaab">Sean Gabriel Bayron</a></p>
-		<p>Source code: <a href="https://github.com/seangaaab/CMSC-186-PA1">GitHub</a></p>
+		<p>
+			Developed by: <a href="https://github.com/seangaaab" target="_blank">Sean Gabriel Bayron</a>
+		</p>
+		<p>
+			Source code: <a href="https://github.com/seangaaab/CMSC-186-PA1" target="_blank">GitHub</a>
+		</p>
 	</footer>
 </main>
 
